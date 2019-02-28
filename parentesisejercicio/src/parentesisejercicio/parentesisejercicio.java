@@ -11,7 +11,7 @@ import java.util.Stack;
  *
  * @author Jacobo
  */
-public class Parentesisejercicio {
+public class parentesisejercicio {
 
     /**
      * @param args the command line arguments
